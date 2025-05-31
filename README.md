@@ -100,7 +100,11 @@ Student, BS Cybersecurity
 National University of Computer and Emerging Sciences (FAST)
 
 ---
+## 📄 Note
+The main file should be executed in a VM. The author will not be responsible for any loss.
 
+
+---
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE), but should only be used for legal and ethical learning.
