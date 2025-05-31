@@ -1,4 +1,4 @@
-# Surveillance Tool (Educational Project)
+# Surveillance Tool
 
 This is an **educational surveillance tool** built in Python that captures webcam footage, system information, clipboard contents, screenshots, and audio recordings. It simulates functionalities used in ethical hacking and red-team exercises.
 
@@ -95,7 +95,7 @@ This project is meant for:
 
 ## 🧠 Author
 
-**Sohaib Ali Khan Sherwani**  
+**Sohaib Ali Khan**  
 Student, BS Cybersecurity  
 National University of Computer and Emerging Sciences (FAST)
 
